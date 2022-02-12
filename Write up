@@ -1,0 +1,6 @@
+Task - introduction to cybersecurity with a simple lab for resetting a password from BookFace site using a THM bruteforce attack.  
+I was provided a username to attempt the reset of the password. 
+With the username I was able to begin the process of resetting the password by submitting a request. 
+Once request for password reset was done, the system asked for a four digit code.  
+I used THM bruteforce to obtain the 4 digit code and then entered the code on the BookFace site for the user. 
+I was able to successfully reset the user's password to whatever I wanted to use.  
